@@ -21,11 +21,14 @@
       if (number_elements <= 3 ){
         if ((number_elements == 0)||((number_elements == 1)&&(elements == ""))){
           message = "Please enter data first.";
+          $scope.color = red;
         }else{
           message = "Enjoy! :) ";
+          $scope.color = green;
         }
       } else{
         message = "Too Much!";
+        $scope.color = green;
       }
     };
 
