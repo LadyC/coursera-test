@@ -1,0 +1,8 @@
+<div><b>Category name:</b> {{ itemsList.items.category.name }} ({{ itemsList.items.category.short_name }})</div>
+<!-- <div><b>Note:</b> <i>{{ itemsList.items.category.special_instructions }}</i></div> -->
+
+<ul>
+  <li ng-repeat="item in itemsList.items.menu_items">
+    <b>Name: </b>{{ item.name }} | <b>Price:</b> {{ item.price_large }} $
+  </li>
+</ul>
