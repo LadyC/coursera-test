@@ -1,0 +1,27 @@
+<div class="container">
+
+  <!-- screen: registration needed  -->
+  <div id="NotRegView" class="ContainerView" ng-if="!(myInfoCtrl.status)">
+    <h1 id="notreg" class="title">Registration Required</h2>
+    <div class="text-title">
+        Not signed up yet! <a ui-sref="public.signup">Sign Up now!</a>
+    </div>
+    <br>
+  </div>
+
+  <!-- screen: view data -->
+  <div id="RegView" class="ContainerView" ng-if="myInfoCtrl.status">
+    <link rel="stylesheet" href="css/myinfo.css">
+    <h1 id="reg" class="title">Welcome in your Page</h2>
+    <div>
+      <h2>First Name </h2> <p>{{ myInfoCtrl.user.firstname}}</p>
+      <h2>Last Name </h2> <p>{{ myInfoCtrl.user.lastname}} </p>
+      <h2>Email </h2><p>{{ myInfoCtrl.user.email}} </p>
+      <div ng-if="myInfoCtrl.phone()"><h2>Phone </h2><p>{{ myInfoCtrl.user.phone }} </p></div>
+      <h2>Favorite Dish Name </h2> <p>
+      <menu-item menu-item="myInfoCtrl.user.menu_item"></menu-item>
+      </p>
+    </div>
+  </div>
+
+</div>
