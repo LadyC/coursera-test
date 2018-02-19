@@ -1,37 +1,20 @@
-## Welcome to GitHub Pages
+﻿# Coursera Test Folder
 
-You can use the [editor on GitHub](https://github.com/LadyC/coursera-test/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+This folder contains the assignment solution of two course on Coursera.org. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+- "HTML, CSS, and Javascript for Web Developers" by Johns Hopkins University
+- "Single Page Web Applications with AngularJS" by Johns Hopkins University
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+# Professor for both courses
 
-```markdown
-Syntax highlighted code block
+Yaakov Chaikin (see https://www.coursera.org/instructor/yaakov-chaikin)
+Yaakov is also a Principal Enterprise Architect and software developer with a Columbia, Maryland consulting firm. 
+His expertise includes involvement in all phases of the software development lifecycle, from requirements and architecture
+ to implementation using some of the latest technologies. His daily responsibilities include project leadership, 
+architecture design as well as coding Web-based applications. <br> <br> Yaakov is an experienced instructor. 
+He has been bringing his real-world experience as a part-time faculty at Johns Hopkins University for over 10 years, 
+teaching Java Enterprise Edition Web Development as well as Rich Internet Applications with Ajax. 
+He has also been hired to give presentations and teach short courses for commercial clients. 
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/LadyC/coursera-test/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
