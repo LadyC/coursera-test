@@ -9,7 +9,8 @@ This folder contains the assignment solution of two course on Coursera.org.
 # Professor for both courses
 
 Yaakov Chaikin (see https://www.coursera.org/instructor/yaakov-chaikin)
-Yaakov is also a Principal Enterprise Architect and software developer with a Columbia, Maryland consulting firm. 
+
+Yaakov is a Principal Enterprise Architect and software developer within a Columbia, Maryland consulting firm. 
 His expertise includes involvement in all phases of the software development lifecycle, from requirements and architecture
  to implementation using some of the latest technologies. His daily responsibilities include project leadership, 
 architecture design as well as coding Web-based applications. <br> <br> Yaakov is an experienced instructor. 
