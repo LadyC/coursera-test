@@ -32,6 +32,10 @@ h2{
   text-decoration: none;
 }
 
+.navbar-header button.navbar-toggle, .navbar-header .icon-bar {
+  border: 1px solid #003399;
+}
+
 .row {
   width: 100%;
   margin-right: 10px;
